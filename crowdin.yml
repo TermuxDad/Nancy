@@ -1,0 +1,3 @@
+files:
+  - source: Nancy/localization/en.yaml
+    translation: /**/Nancy/localization/%locale_with_underscore%.yaml
