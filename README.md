@@ -1,6 +1,6 @@
 # Nancy Robot
 
-[![Crowdin](https://badges.crowdin.net/Nancy/localized.svg)](https://crowdin.com/project/Nancy)
+[![Crowdin](https://badges.crowdin.net/MrSammy/localized.svg)](https://crowdin.com/project/MrSammy)
 [![GitHub contributors](https://img.shields.io/github/contributors/MrSammyXD/Nancy.svg)](https://GitHub.com/MrSammyXD/Nancy/graphs/contributors/)
  
 >  Nancy is a modern and fast Telegram Bot developed entirely to improve the chat experience,
