@@ -24,7 +24,7 @@ Nancy is a rebased version of Nancy, this time being done completely in aiogram 
 
 Nancy will still be up and running for a long time and will also receive support for cumulative updates of improvements and optimizations.
 
-You can find the Hitsuki X as [@Hitsuki_BOT](https://t.me/NancyProbot) on Telegram.
+You can find the Nancy as [@NancyProBot](https://t.me/NancyProbot) on Telegram.
 
 ## DeepSource stats
 
